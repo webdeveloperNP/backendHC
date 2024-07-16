@@ -1,0 +1,11 @@
+# Ignore all files with a .log extension
+*.log
+
+# Ignore all files and folders in the temp directory
+temp/*
+
+# Ignore all files and folders in the node_modules directory
+node_modules/
+
+
+package-lock.json
