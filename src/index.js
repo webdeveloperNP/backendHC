@@ -53,4 +53,10 @@ console.log(`Current PORT: ${PORT}`);
 
 //M2: modular approach, db connection code in 'db' folder and the import it and use it in index.js
 
-dbConnect();
+dbConnect().then(() => {
+  app.listen(PORT, () => {
+    console.log(`Server is running on ${PORT}`)
+  })
+}).catch(err=>{
+  console.log(`Mongo db connection error:${err}`);
+});
