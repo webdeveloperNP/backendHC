@@ -13,3 +13,5 @@
 ###### Creating a pull request template for your repository ([Github article](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository))
 
 ###### GitHub Emoji Cheat Sheet([link](https://gist.github.com/mayurchhapra/3508291362c42d983fe5774e71f70207))
+
+#### Vidtube Eraser ER Diagram ([link](https://app.eraser.io/workspace/iLd1OqJTOJNNvgtp2Ibt?origin=share))
