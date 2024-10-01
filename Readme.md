@@ -15,3 +15,5 @@
 ###### GitHub Emoji Cheat Sheet([link](https://gist.github.com/mayurchhapra/3508291362c42d983fe5774e71f70207))
 
 #### Vidtube Eraser ER Diagram ([link](https://app.eraser.io/workspace/iLd1OqJTOJNNvgtp2Ibt?origin=share))
+
+##### work-with-multiple-github-accounts.md([link](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3))
