@@ -17,3 +17,7 @@
 #### Vidtube Eraser ER Diagram ([link](https://app.eraser.io/workspace/iLd1OqJTOJNNvgtp2Ibt?origin=share))
 
 ##### work-with-multiple-github-accounts.md([link](https://gist.github.com/rahularity/86da20fe3858e6b311de068201d279e3))
+
+#### Anatomy of an HTTP Transaction ([link](https://nodejs.org/en/learn/modules/anatomy-of-an-http-transaction))
+
+#### A Beginner's Guide to Morgan NPM Logger ([link](https://www.atatus.com/blog/a-beginners-guide-to-morgan-npm-logger/))
